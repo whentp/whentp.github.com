@@ -1,7 +1,5 @@
 ---
-destination : /Users/mreid/Sites/mark.reid.name
-auto        : false
-lsi         : false
+destination : /home/whentp/public/whentp/
 pygments    : true
 permalink   : none
 markdown    : maruku
