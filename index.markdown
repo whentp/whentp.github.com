@@ -10,9 +10,7 @@ section: Home
 Welcome
 =======
 
-I'm Mark Reid, a 30-something Australian, academic, husband, programmer, father, 
-snowboarder, and web-nerd---amongst other things. You can find out more about 
-be by poking around the links above and below.
+I'm whentp.
 
 +--	{.section}
 Research
@@ -51,7 +49,7 @@ I have also just started a programming blog called _[Structure & Process](/sap)_
 =--
 
 +-- {.section}
-[Twitter](http://twitter.com/mdreid)
+[Twitter](http://twitter.com/whentp)
 ====================================
 
 Contacting Twitter... 
