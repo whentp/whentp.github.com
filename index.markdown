@@ -10,17 +10,14 @@ section: Home
 Welcome
 =======
 
-I'm whentp.
+I'm [whentp](http://twitter.com/whentp).
 
-+--	{.section}
 Research
 ========
 My day job is as a [Research Fellow](/work) in statistical machine learning at 
 the Australian National University's Research School of Information Sciences and
 Engineering.
-=--
 
-+-- {.section}
 Blogs
 =====
 I keep a research blog called _[Inductio ex Machina](/iem)_ on 
