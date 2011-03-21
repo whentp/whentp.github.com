@@ -9,8 +9,8 @@ exclude:
 title:          whentp
 url:            http://appden.com
 feed:           /atom.xml
-description:    "Advanced JavaScript techniques, tips on avoiding those nasty CSS bugs, and musings on technological progress."
-comment:        Isn't it ironic there are no apps?
+description:    "whentp@github"
+comment:        I don't know.
 
 author:
     name:       whentp
@@ -36,10 +36,7 @@ nav:
 
 footer:
     - verb:     Thinking
-      action:   How do people keep up with blogging?
-
-    - verb:     Listening
-      action:   Sexy Bitch Radio on Pandora
+      action:   I have no idea.
       
 copyright:
     - "&copy; Copyright 2010, whentp. All Rights Reserved."
