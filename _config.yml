@@ -1,2 +1,61 @@
-markdown: rdiscount
-pygments: true
+pygments:       true
+permalink:      /:categories/:title/
+paginate:       5
+
+exclude:
+    - README.md
+    - Rakefile
+
+title:          AppDen
+url:            http://appden.com
+feed:           /atom.xml
+description:    "Advanced JavaScript techniques, tips on avoiding those nasty CSS bugs, and musings on technological progress."
+comment:        Isn't it ironic there are no apps?
+
+author:
+    name:       Scott Kyle
+    email:      scott@appden.com
+    twitter:    appden
+    
+about: >
+    I'm Scott Kyle, a <a href="http://mootools.net">MooTools</a> developer
+    and Apple addict. You can follow me on <a href="http://twitter.com/appden">Twitter</a>,
+    fork me on <a href="http://github.com/appden">GitHub</a>, and check out some of my work
+    on my <a href="/portfolio/">portfolio</a>.
+    
+disqus:
+    id:         appden
+
+nav:
+    - name:     Blog
+      url:      /
+    
+    - name:     Portfolio
+      url:      /portfolio/
+    
+    - name:     About
+      url:      /about/
+      subnav:
+        - name: Contact
+          url:  mailto:scott-at-dotcom-after-appden
+    
+
+footer:
+    - verb:     Thinking
+      action:   How do people keep up with blogging?
+
+    - verb:     Listening
+      action:   Sexy Bitch Radio on Pandora
+      
+copyright:
+    - Design by <a href="http://ipsleung.com">Iris Leung</a>
+    - "&copy; Copyright 2010, AppDen. All Rights Reserved."
+      
+css:
+    - /lib/appden.css
+    - /lib/syntax.css
+    
+js:
+    - http://ajax.googleapis.com/ajax/libs/mootools/1.2.4/mootools-yui-compressed.js
+    - /lib/mootools-more.js
+    - /lib/appden.js
