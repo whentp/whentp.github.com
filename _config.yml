@@ -27,14 +27,11 @@ nav:
     - name:     Blog
       url:      /
     
-    - name:     Portfolio
-      url:      /portfolio/
-    
     - name:     About
       url:      /about/
       subnav:
         - name: Contact
-          url:  mailto:scott-at-dotcom-after-appden
+          url:  mailto:tpsmsprojectatgmaildotcom
     
 
 footer:
